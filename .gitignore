@@ -1,0 +1,11 @@
+/data
+/lookup
+/save
+/venv
+/models/__pycache__/*
+/.idea
+/utils/__pycache__/*
+/saved_models/
+*.so
+*.o
+/utils/plot.py
